@@ -1,0 +1,1 @@
+Calculadora simples desenvolvida com "Portugol" do VisuAlg.
